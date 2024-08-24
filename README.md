@@ -13,3 +13,11 @@
 **TimerFive.h:** https://github.com/sofian/TimerFive<br>
 
 ### For `sisu_amr_ps4_test/sisu_amr_ps4_test.ino`:
+**PS4BT.h:** https://github.com/felis/USB_Host_Shield_2.0/<br>
+
+### For `strip_led_test/strip_led_test.ino`:
+**Adafruit_NeoPixel.h:** https://github.com/adafruit/Adafruit_NeoPixel<br>
+
+### For `lever_test/lever_test.ino`
+**HX711.h:** https://github.com/bogde/HX711<br>
+
