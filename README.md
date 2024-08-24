@@ -28,4 +28,8 @@ You can the Python libraries with `requirements.txt` file.<br>
 cd sisu_amr_codes/sisu_amr_test_python
 pip3 install -r requirements.txt
 ```
+For PyLidar Library; you have to do these:
+```
+[git clone ](https://github.com/lakshmanmallidi/PyLidar3)
+```
 
