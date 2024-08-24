@@ -21,3 +21,11 @@
 ### For `sisu_amr_codes/lever_test/lever_test.ino`
 **HX711.h:** https://github.com/bogde/HX711<br>
 
+## Python Libraries:
+You can the Python libraries with `requirements.txt` file
+**Warning:** you must upload these Python libraries to the LattePanda.
+```
+cd sisu_amr_codes/sisu_amr_test_python
+pip3 install -r requirements.txt
+```
+
