@@ -1,5 +1,7 @@
 # Sisu-AMR-Teknofets-2024
 
+This is a Teknofest's Digital Technologies in Industry category's advanced level vehicle. It is an autonomous factory robot. It has many features such as following lines, mapping a room, and lifting loads.
+
 ## Arduino IDE Libraries:
 
 ### For `sisu_amr_codes/sisu_amr_test_arduino/sisu_amr_test_arduino.ino`:
