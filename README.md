@@ -22,7 +22,7 @@
 **HX711.h:** https://github.com/bogde/HX711<br>
 
 ## Python Libraries:
-You can the Python libraries with `requirements.txt` file
+You can the Python libraries with `requirements.txt` file.<br>
 **Warning:** you must upload these Python libraries to the LattePanda.
 ```
 cd sisu_amr_codes/sisu_amr_test_python
