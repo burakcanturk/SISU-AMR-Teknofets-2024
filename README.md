@@ -30,6 +30,8 @@ pip3 install -r requirements.txt
 ```
 For PyLidar Library; you have to do these:
 ```
-[git clone ](https://github.com/lakshmanmallidi/PyLidar3)
+git clone https://github.com/lakshmanmallidi/PyLidar3.git
+cd PyLidar3
+python setup.py install
 ```
 
